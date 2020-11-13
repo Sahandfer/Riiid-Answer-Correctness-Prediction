@@ -21,7 +21,7 @@ EdNet: A Large-Scale Hierarchical Dataset in Education (2020)
 2. A Self-Attentive model for Knowledge Tracing (2019)
 3. Deep knowledge tracing with transformers (2020)
 4. EKT: Exercise-aware Knowledge Tracing for Student Performance Prediction (2019)
-
+5. SAINT+: Integrating Temporal Features for EdNet Correctness Prediction (2020)
 
 
 **Deep/Bayesian**
