@@ -10,8 +10,13 @@
 
 - #### [Tips](https://github.com/Sahandfer/ML_project/blob/master/Tips.md)
 
-### Tasks
+### Tasks (deadline: 2020/11/20)
 
 1. Make a shared folder on Mendeley
 2. Fix the bibliography: create a bib.tex file
-
+3. Data analysis:
+   1. Select important parts of the existing notebooks
+   2. Add parts if necessary
+   3. Update the report
+4. Study Transformers and attention
+5. Implement a transformer-based encoder model (https://www.kaggle.com/claverru/demystifying-transformers-let-s-make-it-public/notebook)
