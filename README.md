@@ -12,8 +12,8 @@
 
 ### Tasks (deadline: 2020/11/20)
 
-1. Make a shared folder on Mendeley
-2. Fix the bibliography: create a bib.tex file
+1. Make a shared folder on Mendeley :white_check_mark:
+2. Fix the bibliography: create a bib.tex file :white_check_mark:
 3. Data analysis:
    1. Select important parts of the existing notebooks
    2. Add parts if necessary
