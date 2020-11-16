@@ -18,5 +18,5 @@
    1. Select important parts of the existing notebooks
    2. Add parts if necessary
    3. Update the report
-4. Study Transformers and attention
+4. Study Transformers and attention :white_check_mark:
 5. Implement a transformer-based encoder model (https://www.kaggle.com/claverru/demystifying-transformers-let-s-make-it-public/notebook)
