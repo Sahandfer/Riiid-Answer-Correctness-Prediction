@@ -10,10 +10,10 @@
 │   ├── SAKT_inference.ipynb   			# Inference code for SAKT
 │   ├── SAINT_inference.ipynb   		# Inference code for SAINT
 │   ├── SAINT_encoder_inference.ipynb   # Inference code for SAINT (encoder only)
-├── Report.pdf                			# Final report for our project
+├── Docs                				
+│   ├── Poster               			# Poster for our project
+│   ├── Report.pdf                		# Final report for our project
 ```
-
-
 
 ## RIIID competition dataset
 
